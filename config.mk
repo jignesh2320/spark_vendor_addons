@@ -250,6 +250,14 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
 
+# Settings Themes
+PRODUCT_PACKAGES += \
+    AOSPSettingsOverlay \
+    ArcSettingsOverlay \
+    CardSettingsOverlay \
+    MaterialSettingsOverlay \
+    RUISettingsOverlay
+
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
