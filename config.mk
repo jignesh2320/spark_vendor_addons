@@ -54,6 +54,102 @@ PRODUCT_PACKAGES += \
     FontSimpleDaySourceOverlay \
     FontSonySketchOverlay
 
+# Clock Fonts
+PRODUCT_PACKAGES += \
+    ClockFontAccuratistOverlay \
+    ClockFontApiceOverlay \
+    ClockFontAudimatOverlay \
+    ClockFontBariolOverlay \
+    ClockFontCoconOverlay \
+    ClockFontComfortaaOverlay \
+    ClockFontComicSansOverlay \
+    ClockFontCoolstoryOverlay \
+    ClockFontExotwoOverlay \
+    ClockFontEvolveSansOverlay \
+    ClockFontFluidSansOverlay \
+    ClockFontGoogleSansOverlay \
+    ClockFontGeometosOverlay \
+    ClockFontHarmonySansOverlay \
+    ClockFontJTLeonorOverlay \
+    ClockFontLetteraOverlay \
+    ClockFontLinotteOverlay \
+    ClockFontMiSansOverlay \
+    ClockFontNokiaPureOverlay \
+    ClockFontNothingDotHeadlineOverlay \
+    ClockFontOneplusSansOverlay \
+    ClockFontOneplusSlateOverlay \
+    ClockFontOppoSansOverlay \
+    ClockFontProductSansVHOverlay \
+    ClockFontRobotoCondensedOverlay \
+    ClockFontRosemaryOverlay \
+    ClockFontRubikOverlay \
+    ClockFontSanFranciscoDisplayProSourceOverlay \
+    ClockFontSamsungOneOverlay \
+    ClockFontSimpleDaySourceOverlay \
+    ClockFontSonySketchOverlay \
+    ClockFontAlienLeagueOverlay \
+    ClockFontBalticBoddenOverlay \
+    ClockFontBalticStormOverlay \
+    ClockFontBigNoodleTiltingOverlay \
+    ClockFontMXWasgardOverlay \
+    ClockFontProdeltCoOverlay \
+    ClockFontRoadRageOverlay \
+    ClockFontTourneyMediumOverlay \
+    ClockFontZeroFourOverlay \
+    ClockFontCatOverlay \
+    ClockFontConcentrateOverlay \
+    ClockFontKarmaticArcadeOverlay \
+    ClockFontLiquidCrystalOverlay \
+    ClockFontVG5000Overlay
+
+# Lockscreen date fonts
+PRODUCT_PACKAGES += \
+    DateFontAlienLeagueOverlay \
+    DateFontBalticBoddenOverlay \
+    DateFontBalticStormOverlay \
+    DateFontBigNoodleTiltingOverlay \
+    DateFontMXWasgardOverlay \
+    DateFontProdeltCoOverlay \
+    DateFontRoadRageOverlay \
+    DateFontTourneyMediumOverlay \
+    DateFontZeroFourOverlay \
+    DateFontCatOverlay \
+    DateFontConcentrateOverlay \
+    DateFontKarmaticArcadeOverlay \
+    DateLetteraOverlay \
+    DateFontLiquidCrystalOverlay \
+    DateFontAccuratistOverlay \
+    DateFontApiceOverlay \
+    DateFontAudimatOverlay \
+    DateFontBariolOverlay \
+    DateFontCoconOverlay \
+    DateFontComfortaaOverlay \
+    DateFontComicSansOverlay \
+    DateFontCoolstoryOverlay \
+    DateFontExotwoOverlay \
+    DateFontEvolveSansOverlay \
+    DateFontFluidSansOverlay \
+    DateFontGoogleSansOverlay \
+    DateFontGeometosOverlay \
+    DateFontHarmonySansOverlay \
+    DateFontJTLeonorOverlay \
+    DateFontLinotteOverlay \
+    DateFontMiSansOverlay \
+    DateFontNokiaPureOverlay \
+    DateFontNothingDotHeadlineOverlay \
+    DateFontOneplusSansOverlay \
+    DateFontOneplusSlateOverlay \
+    DateFontOppoSansOverlay \
+    DateFontProductSansVHOverlay \
+    DateFontRobotoCondensedOverlay \
+    DateFontRosemaryOverlay \
+    DateFontRubikOverlay \
+    DateFontSanFranciscoDisplayProSourceOverlay \
+    DateFontSamsungOneOverlay \
+    DateFontSimpleDaySourceOverlay \
+    DateFontSonySketchOverlay \
+    DateFontVG5000Overlay
+
 # Icon Packs
 PRODUCT_PACKAGES += \
     IconPackCircularAndroidOverlay \
