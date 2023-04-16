@@ -225,10 +225,14 @@ PRODUCT_PACKAGES += \
 	DeepSignalOverlay \
 	DoraSignalOverlay \
 	DoraWiFiOverlay \
+	GradiconSignalOverlay \
+	GradiconWiFiOverlay \
 	HuaweiSignalOverlay \
 	IosSignalOverlay \
 	InsideSignalOverlay \
 	InsideWiFiOverlay \
+	NothingDotSignalOverlay \
+	NothingDotWiFiOverlay \
 	OutlineWiFiOverlay \
 	OutlineSignalOverlay \
 	PillsSignalOverlay \
