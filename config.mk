@@ -258,6 +258,10 @@ PRODUCT_PACKAGES += \
     MaterialSettingsOverlay \
     RUISettingsOverlay
 
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
+
 # Themes
 PRODUCT_PACKAGES += \
     QSOutline \
