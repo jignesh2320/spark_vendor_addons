@@ -208,7 +208,11 @@ PRODUCT_PACKAGES += \
     IconShapeVesselOverlay \
     RohieIconMeowOverlay \
     DefaultButSquareOverlay \
-    RiceBallsOverlay
+    RiceBallsOverlay \
+    IconShapeScrollOverlay \
+    IconShapeIosOverlay \
+    IconShapeRohieMeowOverlay \
+    IconShapeLeafyOverlay
 
 # Navbar styles
 PRODUCT_PACKAGES += \
