@@ -24,6 +24,7 @@ PRODUCT_PACKAGES += \
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
+    FontCustomOverlay \
     FontAccuratistOverlay \
     FontBariolOverlay \
     FontCoconOverlay \
