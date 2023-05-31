@@ -17,15 +17,11 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/common
 
-ifeq ($(TARGET_HAS_UDFPS),true)
-PRODUCT_PACKAGES += \
-    UdfpsIcons
-
 ifeq ($(EXTRA_UDFPS_ANIMATIONS),true)
 PRODUCT_PACKAGES += \
+    UdfpsIcons \
     UdfpsAnimations \
     UdfpsPressedIcons
-endif
 endif
 
 # Navbar
