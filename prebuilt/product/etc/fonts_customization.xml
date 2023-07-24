@@ -705,7 +705,7 @@
     </family>
     <alias name="misans-medium" to="misans" weight="400" />
     
-  <family customizationType="new-named-family" name="google-sans">
+  <family customizationType="new-named-family" name="g-sans">
     <font weight="400" style="normal">GoogleSans-Regular.ttf
       <axis tag="GRAD" stylevalue="0"/>
       <axis tag="opsz" stylevalue="18.0"/>
@@ -748,7 +748,7 @@
     </font>
   </family>
 
-  <family customizationType="new-named-family" name="google-sans-medium">
+  <family customizationType="new-named-family" name="g-sans-medium">
     <font weight="500" style="normal">GoogleSans-Regular.ttf
       <axis tag="GRAD" stylevalue="0"/>
       <axis tag="opsz" stylevalue="18.0"/>
@@ -760,7 +760,7 @@
     <font>GoogleSansClock-Regular.ttf</font>
   </family>
 
-  <family customizationType="new-named-family" name="google-sans-bold">
+  <family customizationType="new-named-family" name="g-sans-bold">
     <font weight="700" style="normal">GoogleSans-Regular.ttf
       <axis tag="GRAD" stylevalue="0"/>
       <axis tag="opsz" stylevalue="18.0"/>
@@ -768,7 +768,7 @@
     </font>
   </family>
 
-  <family customizationType="new-named-family" name="google-sans-text">
+  <family customizationType="new-named-family" name="g-sans-text">
     <font weight="400" style="normal">GoogleSans-Regular.ttf
       <axis tag="GRAD" stylevalue="0"/>
       <axis tag="opsz" stylevalue="17.0"/>
@@ -811,7 +811,7 @@
     </font>
   </family>
 
-  <family customizationType="new-named-family" name="google-sans-text-medium">
+  <family customizationType="new-named-family" name="g-sans-text-medium">
     <font weight="500" style="normal">GoogleSans-Regular.ttf
       <axis tag="GRAD" stylevalue="0"/>
       <axis tag="opsz" stylevalue="17.0"/>
@@ -819,7 +819,7 @@
     </font>
   </family>
 
-  <family customizationType="new-named-family" name="google-sans-text-bold">
+  <family customizationType="new-named-family" name="g-sans-text-bold">
     <font weight="700" style="normal">GoogleSans-Regular.ttf
       <axis tag="GRAD" stylevalue="0"/>
       <axis tag="opsz" stylevalue="17.0"/>
@@ -827,7 +827,7 @@
     </font>
   </family>
 
-  <family customizationType="new-named-family" name="google-sans-text-italic">
+  <family customizationType="new-named-family" name="g-sans-text-italic">
     <font weight="400" style="italic">GoogleSans-Italic.ttf
       <axis tag="GRAD" stylevalue="0"/>
       <axis tag="opsz" stylevalue="17.0"/>
@@ -835,7 +835,7 @@
     </font>
   </family>
 
-  <family customizationType="new-named-family" name="google-sans-text-medium-italic">
+  <family customizationType="new-named-family" name="g-sans-text-medium-italic">
     <font weight="500" style="italic">GoogleSans-Italic.ttf
       <axis tag="GRAD" stylevalue="0"/>
       <axis tag="opsz" stylevalue="17.0"/>
@@ -843,7 +843,7 @@
     </font>
   </family>
 
-  <family customizationType="new-named-family" name="google-sans-text-bold-italic">
+  <family customizationType="new-named-family" name="g-sans-text-bold-italic">
     <font weight="700" style="italic">GoogleSans-Italic.ttf
       <axis tag="GRAD" stylevalue="0"/>
       <axis tag="opsz" stylevalue="17.0"/>
