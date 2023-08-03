@@ -301,51 +301,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
 
-# Settings Themes
-PRODUCT_PACKAGES += \
-    AOSPSettingsOverlay \
-    ArcSettingsOverlay \
-    CardSettingsOverlay \
-    MaterialSettingsOverlay \
-    RUISettingsOverlay
-
-# QS UI Style
-PRODUCT_PACKAGES += \
-    A11QSUI
-
-# Themes
-PRODUCT_PACKAGES += \
-    QSOutline \
-    QSTwoToneAccent \
-    QSTwoToneAccentTrans \
-    QSShaded \
-    QSCyberPunk \
-    QSNeumorph \
-    QSReflected \
-    QSSurround \
-    QSThin \
-
-# Brightness slider styles
-PRODUCT_PACKAGES += \
-    BrightnessSliderFilledOverlay \
-    BrightnessSliderThinOverlay \
-    BrightnessSliderCyberpunkOverlay \
-    BrightnessSliderGradiantOverlay \
-    BrightnessSliderNeumorphOverlay \
-    BrightnessSliderOutlineOverlay \
-    BrightnessSliderShadedOverlay \
-    BrightnessSliderThinOutlineOverlay \
-    BrightnessSliderTranslucentOverlay \
-    BrightnessSliderLeafyOutlineOverlay \
-    BrightnessSliderMinimalThumbOverlay \
-    BrightnessSliderOldSchoolThumbOverlay \
-    BrightnessSliderRoundedClipOverlay \
-    BrightnessSliderThumbSliderOverlay \
-    BrightnessSliderLineOverlay \
-    BrightnessSliderLightyOverlay \
-    BrightnessSliderAcunOverlay \
-    BrightnessSliderBangOverlay
-
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
