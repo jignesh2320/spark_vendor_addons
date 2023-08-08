@@ -314,6 +314,15 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     A11QSUI
 
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeDoubleLayer \
+    VolumeGradient \
+    VolumeNeumorph \
+    VolumeNeumorphOutline \
+    VolumeOutline \
+    VolumeShadedLayer
+
 # Themes
 PRODUCT_PACKAGES += \
     QSOutline \
