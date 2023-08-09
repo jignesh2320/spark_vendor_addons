@@ -26,7 +26,8 @@ endif
 
 # Navbar
 PRODUCT_PACKAGES += \
-    GesturalNavigationOverlayHidden
+    GesturalNavigationOverlayHidden \
+    NavigationBarMode2ButtonOverlay
 
 # Fonts
 PRODUCT_PACKAGES += \
