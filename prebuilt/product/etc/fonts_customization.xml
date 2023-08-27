@@ -10,6 +10,24 @@
     <family customizationType="new-named-family" name="sfsofttime-semibold">
       <font>SFSoftTime-Semibold.ttf</font>
     </family>
+    <family customizationType="new-named-family" name="26fgalaxysans">
+      <font>26FGalaxySans.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="alexana">
+      <font>Alexana.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="exodar">
+      <font>Exodar.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="kroppen-fwo">
+      <font>KroppenFwO.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="kroppen-outline">
+      <font>KroppenOutline.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="kroppen-round">
+      <font>KroppenRound.ttf</font>
+    </family>
     <family customizationType="new-named-family" name="newyork-heavy-clock">
       <font>NewYork-Heavy.otf</font>
     </family>
