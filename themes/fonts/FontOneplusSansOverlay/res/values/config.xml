@@ -1,6 +1,7 @@
 <!--
 /**
  * Copyright (c) 2019-2020, crDroid Android Project
+ * Copyright (c) 2023, risingOS Android Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,16 +17,16 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-     <!-- Name of a font family to use for body text. -->
-    <string name="config_bodyFontFamily" translatable="false">oneplus-sans</string>
-    <!-- Name of a font family to use for medium body text. -->
-    <string name="config_bodyFontFamilyMedium" translatable="false">oneplus-sans-medium</string>
-    <!-- Name of a font family to use for headlines. If empty, falls back to platform default -->
-    <string name="config_headlineFontFamily" translatable="false">oneplus-sans</string>
-    <!-- Name of the font family used for system surfaces where the font should use medium weight -->
-    <string name="config_headlineFontFamilyMedium" translatable="false">oneplus-sans-bold</string>
-    <!-- Name of a font family to use as light font. For theming purpose. -->
-    <string name="config_lightFontFamily" translatable="false">oneplus-sans-light</string>
-    <!-- Name of a font family to use as regular font. For theming purpose. -->
-    <string name="config_regularFontFamily" translatable="false">oneplus-sans-regular</string>
+    <!-- Headline font for general use -->
+    <string name="config_headlineFontFamily" translatable="false">oneplus-sans-TC</string>
+    <!-- Headline font with medium weight -->
+    <string name="config_headlineFontFamilyMedium" translatable="false">oneplus-sans-text-medium</string>
+    <!-- Body text font -->
+    <string name="config_bodyFontFamily" translatable="false">oneplus-sans-text-body-1</string>
+    <!-- Medium weight body text font -->
+    <string name="config_bodyFontFamilyMedium" translatable="false">oneplus-sans-text-description</string>
+    <!-- Light weight font for theming -->
+    <string name="config_lightFontFamily" translatable="false">oneplus-sans-text-h5</string>
+    <!-- Regular font for theming -->
+    <string name="config_regularFontFamily" translatable="false">oneplus-sans-SC</string>
 </resources>
