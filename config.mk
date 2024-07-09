@@ -203,12 +203,14 @@ PRODUCT_PACKAGES += \
     IconShapeHeartOverlay \
     IconShapeHeartRoundedOverlay \
     IconShapeHexagonOverlay \
-    IconShapeLeafRoundedOverlay \
-    IconShapePebbleRoundedOverlay \
+    IconShapeIosOverlay \
     IconShapeLeafOverlay \
     IconShapePebbleOverlay \
     IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
+    IconShapeSamsungOverlay \
+    IconShapeScrollOverlay \
+    IconShapeStretchedOverlay \
     IconShapeSquareOverlay \
     IconShapeSquircleOverlay \
     IconShapeStretchedOverlay \
